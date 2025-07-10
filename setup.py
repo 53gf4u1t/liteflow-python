@@ -16,7 +16,7 @@ install_requires = [
 ]
 
 setuptools.setup(
-    name="LiteFlow",
+    name="liteflow-python",
     version="0.0.1",
     author="53gf4u1t",
     author_email="nguyenhoanglienson1105@gmail.com",
@@ -36,6 +36,6 @@ setuptools.setup(
         "Programming Language :: Python :: 3",
         "Programming Language :: Python :: 3.12",
     ],
-    python_requires='>=3.8',
+    python_requires='>=3.9',
     install_requires=install_requires,
 )
