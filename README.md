@@ -12,7 +12,7 @@ LiteFlow lets you talk to top-tier LLMs like Claude, GPT, Mistral, and more — 
   Stop juggling API keys across 5 different dashboards. LiteFlow unifies the top LLMs under a single, clean interface.
 
 - **Optimized for cost**  
-  We compress prompts, reroute intelligently, and cache responses — saving you up to 80% without lifting a finger.
+  We've done the heavy-lifting optimzations to provide you with the cheapest cost on the market.
 
 - **Intelligent fallback & resilience**  
   If a model is down or slow, LiteFlow seamlessly reroutes the request — so you never miss a beat.
