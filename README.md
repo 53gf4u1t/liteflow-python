@@ -6,7 +6,7 @@ LiteFlow lets you talk to top-tier LLMs like Claude, GPT, Mistral, and more — 
 
 ---
 
-## 🚀 Why LiteFlow?
+## Why LiteFlow?
 
 - **One key, every model**  
   Stop juggling API keys across 5 different dashboards. LiteFlow unifies the top LLMs under a single, clean interface.
