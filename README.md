@@ -65,6 +65,6 @@ Let LiteFlow be the layer between your app and LLM chaos — fast, cheap, and al
 
 ## Community & Support
 Need help? 
-- [Contact us](mailto:nguyenhoanglienson1105@gmail.com)
+- [Contact us](mailto:contact@liteflow.cloud)
 - [Join our Discord](https://discord.gg/sfRdZ9EAfg)
 - [Open an issue](https://github.com/53gf4u1t/liteflow-python/issues)

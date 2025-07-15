@@ -6,7 +6,7 @@ readme_path = Path(__file__).parent / "README.md"
 long_description = readme_path.read_text(encoding="utf-8")
 
 # Load requirements from ../app/functions/requirements.txt
-requirements_path = Path(__file__).parent / "../app/functions/requirements.txt"
+requirements_path = Path(__file__).parent / "requirements.txt"
 install_requires = requirements_path.read_text(encoding="utf-8").splitlines()
 
 # Filter out empty lines and comments
