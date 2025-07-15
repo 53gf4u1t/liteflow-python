@@ -17,7 +17,7 @@ install_requires = [
 
 setuptools.setup(
     name="liteflow-python",
-    version="0.0.1",
+    version="0.0.2",
     author="53gf4u1t",
     author_email="nguyenhoanglienson1105@gmail.com",
     description="Build production-grade LLM apps the easy way.",
